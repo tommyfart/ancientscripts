@@ -1,4 +1,4 @@
---
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/tommyfart/ancientscripts/refs/heads/main/RC7.lua"))()
 -- Gui to Lua
 -- Version: 3.2
 
